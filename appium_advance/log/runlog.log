@@ -1,0 +1,32 @@
+INFO:root:info hello2
+WARNING:root:warning hello3
+ERROR:root:error hello4
+CRITICAL:root:critical hello5
+2019-01-28 15:09:12,603 logging_test.py[line:11]INFOlogging info
+2019-01-28 15:09:12,603 logging_test.py[line:12]WARNINGwarning info
+2019-01-28 15:09:12,603 logging_test.py[line:13]ERRORerror info
+2019-01-28 15:09:12,603 logging_test.py[line:14]CRITICALcritical info
+2019-01-28 15:10:29,609 logging_test.py[line:11]INFOlogging info
+2019-01-28 15:10:29,609 logging_test.py[line:12]WARNINGwarning info
+2019-01-28 15:10:29,609 logging_test.py[line:13]ERRORerror info
+2019-01-28 15:10:29,609 logging_test.py[line:14]CRITICALcritical info
+2019-01-28 15:21:10,197 logging_test.py[line:11]INFO logging info
+2019-01-28 15:21:10,198 logging_test.py[line:12]WARNING warning info
+2019-01-28 15:21:10,198 logging_test.py[line:13]ERROR error info
+2019-01-28 15:21:10,198 logging_test.py[line:14]CRITICAL critical info
+2019-01-28 15:21:27,121 logging_test.py[line:11]s INFO logging info
+2019-01-28 15:21:27,121 logging_test.py[line:12]s WARNING warning info
+2019-01-28 15:21:27,121 logging_test.py[line:13]s ERROR error info
+2019-01-28 15:21:27,121 logging_test.py[line:14]s CRITICAL critical info
+2019-01-28 15:22:09,277 logging_test.py [line:11] INFO logging info
+2019-01-28 15:22:09,278 logging_test.py [line:12] WARNING warning info
+2019-01-28 15:22:09,278 logging_test.py [line:13] ERROR error info
+2019-01-28 15:22:09,278 logging_test.py [line:14] CRITICAL critical info
+2019-01-28 17:13:03,283 kyb_logger.py [line:23] INFO start app
+2019-01-28 17:14:44,522 kyb_logger.py [line:23] INFO start app
+2019-01-28 17:18:15,681 kyb_logger.py [line:23] INFO start app
+2019-01-28 17:18:25,193 kyb_logger.py [line:28] INFO check cancelBtn
+2019-01-28 17:18:26,624 kyb_logger.py [line:37] INFO check skipBtn
+'2019-01-29 15:16:51,425 kyb_logconf.py [line:26] INFO start app
+'2019-01-29 15:17:05,280 kyb_logconf.py [line:31] INFO check cancelBtn
+'2019-01-29 15:17:06,666 kyb_logconf.py [line:40] INFO check skipBtn
