@@ -1,4 +1,5 @@
 #_author_.="wangxixi"
+#启动app，打印日志
 
 from appium import webdriver
 import yaml

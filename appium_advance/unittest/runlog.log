@@ -1,0 +1,115 @@
+'2019-02-02 14:57:50,488 myunit.py [line:11] INFO ===============setUp===============
+'2019-02-02 14:57:50,493 desired_caps.py [line:30] INFO start app
+'2019-02-02 14:58:02,453 test_login.py [line:20] INFO =======test_login_error====
+'2019-02-02 14:58:02,453 common_fun.py [line:17] INFO check cancelBtn
+'2019-02-02 14:58:03,806 common_fun.py [line:26] INFO check skipBtn
+'2019-02-02 14:58:05,251 loginView.py [line:18] INFO =================login_action=================
+'2019-02-02 14:58:05,251 loginView.py [line:19] INFO username is:6666
+'2019-02-02 14:58:11,035 myunit.py [line:15] INFO ================tearDown===============
+'2019-02-02 14:58:16,709 myunit.py [line:11] INFO ===============setUp===============
+'2019-02-02 14:58:16,714 desired_caps.py [line:30] INFO start app
+'2019-02-02 14:58:27,426 test_login.py [line:15] INFO =======test_login_zxw2017====
+'2019-02-02 14:58:27,426 common_fun.py [line:17] INFO check cancelBtn
+'2019-02-02 14:58:29,185 common_fun.py [line:26] INFO check skipBtn
+'2019-02-02 14:58:30,602 loginView.py [line:18] INFO =================login_action=================
+'2019-02-02 14:58:30,602 loginView.py [line:19] INFO username is:自学网2017
+'2019-02-02 14:58:36,572 myunit.py [line:15] INFO ================tearDown===============
+'2019-02-02 14:58:42,239 myunit.py [line:11] INFO ===============setUp===============
+'2019-02-02 14:58:42,244 desired_caps.py [line:30] INFO start app
+'2019-02-02 14:58:53,076 test_login.py [line:10] INFO =======test_login_zxw2018====
+'2019-02-02 14:58:53,076 common_fun.py [line:17] INFO check cancelBtn
+'2019-02-02 14:58:54,505 common_fun.py [line:26] INFO check skipBtn
+'2019-02-02 14:58:56,234 loginView.py [line:18] INFO =================login_action=================
+'2019-02-02 14:58:56,234 loginView.py [line:19] INFO username is:自学网2018
+'2019-02-02 14:59:02,020 myunit.py [line:15] INFO ================tearDown===============
+'2019-02-02 15:31:59,952 myunit.py [line:11] INFO ===============setUp===============
+'2019-02-02 15:31:59,954 desired_caps.py [line:30] INFO start app
+'2019-02-02 15:32:07,922 test_login.py [line:20] INFO =======test_login_error====
+'2019-02-02 15:32:07,922 common_fun.py [line:17] INFO check cancelBtn
+'2019-02-02 15:32:09,450 common_fun.py [line:26] INFO check skipBtn
+'2019-02-02 15:32:10,963 loginView.py [line:18] INFO =================login_action=================
+'2019-02-02 15:32:10,963 loginView.py [line:19] INFO username is:6666
+'2019-02-02 15:32:17,394 myunit.py [line:11] INFO ===============setUp===============
+'2019-02-02 15:32:17,397 desired_caps.py [line:30] INFO start app
+'2019-02-02 15:32:27,207 test_login.py [line:20] INFO =======test_login_error====
+'2019-02-02 15:32:27,208 common_fun.py [line:17] INFO check cancelBtn
+'2019-02-02 15:32:28,606 common_fun.py [line:26] INFO check skipBtn
+'2019-02-02 15:32:30,045 loginView.py [line:18] INFO =================login_action=================
+'2019-02-02 15:32:30,045 loginView.py [line:19] INFO username is:6666
+'2019-02-02 15:32:36,058 myunit.py [line:15] INFO ================tearDown===============
+'2019-02-02 15:32:41,710 myunit.py [line:11] INFO ===============setUp===============
+'2019-02-02 15:32:41,713 desired_caps.py [line:30] INFO start app
+'2019-02-02 15:32:51,928 test_login.py [line:15] INFO =======test_login_zxw2017====
+'2019-02-02 15:32:51,928 common_fun.py [line:17] INFO check cancelBtn
+'2019-02-02 15:32:53,195 common_fun.py [line:26] INFO check skipBtn
+'2019-02-02 15:32:54,903 loginView.py [line:18] INFO =================login_action=================
+'2019-02-02 15:32:54,903 loginView.py [line:19] INFO username is:自学网2017
+'2019-02-02 15:33:01,066 myunit.py [line:15] INFO ================tearDown===============
+'2019-02-02 15:33:06,723 myunit.py [line:11] INFO ===============setUp===============
+'2019-02-02 15:33:06,727 desired_caps.py [line:30] INFO start app
+'2019-02-02 15:51:00,273 myunit.py [line:11] INFO ===============setUp===============
+'2019-02-02 15:51:00,275 desired_caps.py [line:30] INFO start app
+'2019-02-02 15:51:08,217 test_login.py [line:22] INFO =======test_login_error====
+'2019-02-02 15:51:08,217 common_fun.py [line:17] INFO check cancelBtn
+'2019-02-02 15:51:19,255 common_fun.py [line:26] INFO check skipBtn
+'2019-02-02 15:51:20,977 loginView.py [line:18] INFO =================login_action=================
+'2019-02-02 15:51:20,977 loginView.py [line:19] INFO username is:6666
+'2019-02-02 15:51:27,032 myunit.py [line:15] INFO ================tearDown===============
+'2019-02-02 15:51:32,687 myunit.py [line:11] INFO ===============setUp===============
+'2019-02-02 15:51:32,691 desired_caps.py [line:30] INFO start app
+'2019-02-02 15:59:57,033 myunit.py [line:11] INFO ===============setUp===============
+'2019-02-02 15:59:57,036 desired_caps.py [line:30] INFO start app
+'2019-02-02 16:00:05,382 test_login.py [line:12] INFO =======test_login_zxw2018====
+'2019-02-02 16:00:05,383 common_fun.py [line:17] INFO check cancelBtn
+'2019-02-02 16:00:16,455 common_fun.py [line:26] INFO check skipBtn
+'2019-02-02 16:00:17,906 loginView.py [line:18] INFO =================login_action=================
+'2019-02-02 16:00:17,907 loginView.py [line:19] INFO username is:自学网2018
+'2019-02-02 16:00:23,928 myunit.py [line:15] INFO ================tearDown===============
+'2019-02-02 16:01:15,879 myunit.py [line:11] INFO ===============setUp===============
+'2019-02-02 16:01:15,882 desired_caps.py [line:30] INFO start app
+'2019-02-02 16:01:26,387 test_login.py [line:12] INFO =======test_login_zxw2018====
+'2019-02-02 16:01:26,387 common_fun.py [line:17] INFO check cancelBtn
+'2019-02-02 16:01:27,742 common_fun.py [line:26] INFO check skipBtn
+'2019-02-02 16:01:29,175 loginView.py [line:18] INFO =================login_action=================
+'2019-02-02 16:01:29,175 loginView.py [line:19] INFO username is:自学网2018
+'2019-02-02 16:01:35,279 loginView.py [line:24] INFO password is:zxw2018
+'2019-02-02 16:01:40,522 loginView.py [line:26] INFO click loginBtn
+'2019-02-02 16:01:41,290 loginView.py [line:28] INFO login finished!
+'2019-02-02 16:01:41,290 myunit.py [line:15] INFO ================tearDown===============
+'2019-02-02 16:13:49,945 myunit.py [line:11] INFO ===============setUp===============
+'2019-02-02 16:13:49,948 desired_caps.py [line:30] INFO start app
+'2019-02-02 16:13:58,099 test_login.py [line:12] INFO =======test_login_zxw2018====
+'2019-02-02 16:13:58,099 common_fun.py [line:17] INFO check cancelBtn
+'2019-02-02 16:14:50,833 myunit.py [line:11] INFO ===============setUp===============
+'2019-02-02 16:14:50,838 desired_caps.py [line:30] INFO start app
+'2019-02-02 16:15:01,495 test_login.py [line:22] INFO =======test_login_error====
+'2019-02-02 16:15:01,495 common_fun.py [line:17] INFO check cancelBtn
+'2019-02-02 16:15:02,858 common_fun.py [line:26] INFO check skipBtn
+'2019-02-02 16:15:04,543 loginView.py [line:18] INFO =================login_action=================
+'2019-02-02 16:15:04,543 loginView.py [line:19] INFO username is:6666
+'2019-02-02 16:15:10,316 loginView.py [line:24] INFO password is:222
+'2019-02-02 16:15:15,529 loginView.py [line:26] INFO click loginBtn
+'2019-02-02 16:15:16,255 loginView.py [line:28] INFO login finished!
+'2019-02-02 16:15:16,255 myunit.py [line:15] INFO ================tearDown===============
+'2019-02-02 16:15:21,930 myunit.py [line:11] INFO ===============setUp===============
+'2019-02-02 16:15:21,934 desired_caps.py [line:30] INFO start app
+'2019-02-02 16:15:31,982 test_login.py [line:17] INFO =======test_login_zxw2017====
+'2019-02-02 16:15:31,982 common_fun.py [line:17] INFO check cancelBtn
+'2019-02-02 16:15:33,342 common_fun.py [line:26] INFO check skipBtn
+'2019-02-02 16:15:34,890 loginView.py [line:18] INFO =================login_action=================
+'2019-02-02 16:15:34,890 loginView.py [line:19] INFO username is:自学网2017
+'2019-02-02 16:15:41,103 loginView.py [line:24] INFO password is:zxw2017
+'2019-02-02 16:15:46,501 loginView.py [line:26] INFO click loginBtn
+'2019-02-02 16:15:47,235 loginView.py [line:28] INFO login finished!
+'2019-02-02 16:15:47,235 myunit.py [line:15] INFO ================tearDown===============
+'2019-02-02 16:15:52,887 myunit.py [line:11] INFO ===============setUp===============
+'2019-02-02 16:15:52,892 desired_caps.py [line:30] INFO start app
+'2019-02-02 16:16:03,444 test_login.py [line:12] INFO =======test_login_zxw2018====
+'2019-02-02 16:16:03,444 common_fun.py [line:17] INFO check cancelBtn
+'2019-02-02 16:16:04,742 common_fun.py [line:26] INFO check skipBtn
+'2019-02-02 16:16:06,191 loginView.py [line:18] INFO =================login_action=================
+'2019-02-02 16:16:06,191 loginView.py [line:19] INFO username is:自学网2018
+'2019-02-02 16:16:12,382 loginView.py [line:24] INFO password is:zxw2018
+'2019-02-02 16:16:17,669 loginView.py [line:26] INFO click loginBtn
+'2019-02-02 16:16:18,420 loginView.py [line:28] INFO login finished!
+'2019-02-02 16:16:18,420 myunit.py [line:15] INFO ================tearDown===============

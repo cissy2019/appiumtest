@@ -7,3 +7,35 @@
 '2019-01-30 16:03:53,353 desired_caps.py [line:29] INFO start app
 '2019-01-30 16:04:01,616 common_fun.py [line:17] INFO check cancelBtn
 '2019-01-30 16:04:02,857 common_fun.py [line:26] INFO check skipBtn
+'2019-01-31 15:00:23,537 desired_caps.py [line:29] INFO start app
+'2019-01-31 15:01:14,005 common_fun.py [line:17] INFO check cancelBtn
+'2019-01-31 15:01:15,367 common_fun.py [line:26] INFO check skipBtn
+'2019-01-31 15:01:17,052 loginView.py [line:18] INFO =================login_action=================
+'2019-01-31 15:01:17,052 loginView.py [line:19] INFO username is:ï¿½ï¿½Ñ§ï¿½ï¿½2018
+'2019-01-31 15:01:24,011 loginView.py [line:21] INFO password is:zxw2018
+'2019-01-31 15:01:31,184 loginView.py [line:23] INFO click loginBtn
+'2019-01-31 15:01:34,342 loginView.py [line:25] INFO login finished!
+'2019-01-31 15:17:19,857 desired_caps.py [line:29] INFO start app
+'2019-01-31 15:17:30,656 common_fun.py [line:17] INFO check cancelBtn
+'2019-01-31 15:17:31,923 common_fun.py [line:26] INFO check skipBtn
+'2019-01-31 15:17:33,588 loginView.py [line:18] INFO =================login_action=================
+'2019-01-31 15:17:33,588 loginView.py [line:19] INFO username is:ï¿½ï¿½Ñ§ï¿½ï¿½2018
+'2019-01-31 15:17:39,544 loginView.py [line:22] INFO password is:zxw2018
+'2019-01-31 15:17:44,804 loginView.py [line:24] INFO click loginBtn
+'2019-01-31 15:17:45,571 loginView.py [line:26] INFO login finished!
+'2019-01-31 15:20:27,565 desired_caps.py [line:29] INFO start app
+'2019-01-31 15:20:35,558 common_fun.py [line:17] INFO check cancelBtn
+'2019-01-31 15:20:36,842 common_fun.py [line:26] INFO check skipBtn
+'2019-01-31 15:20:38,443 loginView.py [line:18] INFO =================login_action=================
+'2019-01-31 15:20:38,443 loginView.py [line:19] INFO username is:ï¿½ï¿½Ñ§ï¿½ï¿½2018
+'2019-01-31 15:20:44,472 loginView.py [line:24] INFO password is:zxw2018
+'2019-01-31 15:20:49,697 loginView.py [line:26] INFO click loginBtn
+'2019-01-31 15:20:50,463 loginView.py [line:28] INFO login finished!
+'2019-02-02 15:46:38,731 desired_caps.py [line:30] INFO start app
+'2019-02-02 15:46:46,880 common_fun.py [line:17] INFO check cancelBtn
+'2019-02-02 15:46:48,328 common_fun.py [line:26] INFO check skipBtn
+'2019-02-02 15:46:49,827 loginView.py [line:18] INFO =================login_action=================
+'2019-02-02 15:46:49,827 loginView.py [line:19] INFO username is:×ÔÑ§Íø2018
+'2019-02-02 15:46:55,948 loginView.py [line:24] INFO password is:zxw2018
+'2019-02-02 15:47:01,295 loginView.py [line:26] INFO click loginBtn
+'2019-02-02 15:47:02,010 loginView.py [line:28] INFO login finished!
